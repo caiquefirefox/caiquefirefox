@@ -2,14 +2,11 @@
 
 > **Transformando desafios em soluções inovadoras, liderando times e entregando impacto com tecnologia.**
 
----
 
 ## 📌 Sobre Mim
 Sou um profissional com mais de **10 anos de experiência** em tecnologia, apaixonado por aprendizado contínuo e inovação. Minha trajetória inclui liderança técnica, desenvolvimento de software e consultoria tecnológica, sempre alinhando objetivos de negócio às melhores soluções técnicas.
 
 🎯 **Objetivo:** Ampliar meu impacto como Líder Técnico, Engenheiro de Software ou Desenvolvedor Fullstack, utilizando minha expertise em diversas tecnologias e metodologias.
-
----
 
 ## 🛠 Experiência Técnica
 
@@ -29,7 +26,6 @@ Sou um profissional com mais de **10 anos de experiência** em tecnologia, apaix
 - **Metodologias:**  
   BDD | TDD | DDD | SCRUM | Kanban  
 
----
 
 ## 👥 Gestão e Liderança de Times
 - 🏆 **Liderança estratégica:** Desenvolvimento de times multidisciplinares com foco em alta performance e entregas consistentes.
@@ -37,14 +33,12 @@ Sou um profissional com mais de **10 anos de experiência** em tecnologia, apaix
 - 🤝 **Mentoria e Desenvolvimento:** Foco no crescimento técnico e profissional das equipes, incentivando práticas de engenharia modernas.
 - 📊 **Métricas Ágeis:** Análise de lead time, cycle time e velocity para garantir eficiência e qualidade.
 
----
 
 ## 🌟 Paixões e Valores
 - **💡 Inovação:** Sempre em busca de soluções disruptivas para problemas complexos.
 - **📚 Aprendizado Contínuo:** Estudo constante de novas tecnologias e tendências do mercado.
 - **👥 Trabalho em Equipe:** Foco na colaboração e crescimento mútuo.
 
----
 
 ## 📫 Vamos Conectar?
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiquefirefox)](https://github.com/caiquefirefox)
